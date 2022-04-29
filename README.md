@@ -16,3 +16,5 @@ cpu       10500t
 bt/wifi   博通bcm94352Z (免驱)
 
 主版       3080mff optiplex
+
+特别鸣谢：黑果小兵
